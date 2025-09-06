@@ -1,0 +1,90 @@
+.background{
+    background-color: gray;
+    position: absolute;
+    width: 80%;
+    height: 90%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.my_name{
+    color: aqua;
+    font-size: 50px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%); 
+}
+.age{
+    color: salmon;
+    font-size: 35px;
+    position: absolute;
+    top: 25%;
+    left: 10%;
+}
+.my_age{
+    color: chartreuse;
+    font-size: 35px;
+    position: absolute;
+    top: 25%;
+    left: 17%;
+}
+.school{
+    color: salmon;
+    font-size: 35px;
+    position: absolute;
+    top: 25%;
+    left: 30%;
+}
+.my_school{
+    color: mediumseagreen;
+    font-size: 35px;
+    position: absolute;
+    top: 25%;
+    left: 40%;
+}
+.birth-d{
+    color: salmon;
+    font-size: 35px;
+    position: absolute;
+    top: 50%;
+    left: 10%;
+}
+.my_birth-d{
+    color: lightgoldenrodyellow;
+    font-size: 35px;
+    position: absolute;
+    top: 50%;
+    left: 17%;
+}
+img{
+    width: 300px;
+    height: 350px;
+    position: absolute;
+    top: 25%;
+    left: 65%;
+}
+
+.todolist{
+    background-color: aqua;
+    border-radius: 20px;
+    width: 170px;
+    height: 100px;
+    color: darkblue;
+    font-size: 20px;
+    position: absolute;
+    top: 70%;
+    left: 10%;
+    transform: translate();
+}
+.weather{
+    background-color: darkblue;
+    border-radius: 20px;
+    width: 170px;
+    height: 100px;
+    color: aqua;
+    font-size: 20px;
+    position: absolute;
+    top: 70%;
+    left: 30%;
+    transform: translate();
+}
