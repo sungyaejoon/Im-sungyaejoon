@@ -1,5 +1,8 @@
+body{
+    background-color: chocolate;
+}
 .background{
-    background-color: gray;
+    background-color: rgb(43, 132, 25);
     position: absolute;
     width: 80%;
     height: 90%;
@@ -56,6 +59,13 @@
     top: 50%;
     left: 17%;
 }
+.halsuitnungu{
+    color: salmon;
+    font-size: 35px;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+}
 img{
     width: 300px;
     height: 350px;
@@ -67,24 +77,39 @@ img{
 .todolist{
     background-color: aqua;
     border-radius: 20px;
-    width: 170px;
-    height: 100px;
+    width: 200px;
+    height: 140px;
     color: darkblue;
+    font-size: 18px;
+    position: absolute;
+    }
+.weather{
+    background-color: darkblue;
+    border-radius: 18px;
+    width: 200px;
+    height: 140px;
+    color: aqua;
     font-size: 20px;
     position: absolute;
+    left: 55%;
+}
+.my_projecDDo{
+    background-color: rgba(127, 255, 212, 0.897);
+    color: blue;
+    border-radius: 20px;
+    border: 2px solid blue;
+    position: absolute;
+    width: 500px;
+    height: 170px;
     top: 70%;
     left: 10%;
     transform: translate();
 }
-.weather{
-    background-color: darkblue;
-    border-radius: 20px;
-    width: 170px;
-    height: 100px;
-    color: aqua;
-    font-size: 20px;
+.project{
+    color: yellowgreen;
+    font-size: 35px;
     position: absolute;
-    top: 70%;
-    left: 30%;
-    transform: translate();
+    top: 62%;
+    left: 15%;
+
 }
